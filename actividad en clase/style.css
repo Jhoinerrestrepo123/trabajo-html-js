@@ -1,0 +1,20 @@
+.principal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 1000px;
+}
+
+.segundario {
+    display: flex;
+    border: 10px solid rgb(74, 142, 245);
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: rgb(87, 21, 100);
+}
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
